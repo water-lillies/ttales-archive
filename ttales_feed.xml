@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://water-lillies.github.io/ttales-archive/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tall Tales Archive</title>
+    <link>https://water-lillies.github.io/ttales-archive/</link>
+    <language>en-us</language>
+    <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+    <description>The complete audio archive of the Tall Tales podcast (2015-2018). Hosted by Jason Stewart and Nikki Jagerman.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://water-lillies.github.io/ttales-archive/assets/tall-tales-tall-tales-kvV1MKxImRY-NbxDUIWA_Bq.1400x1400.jpg" />
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:category text="Comedy" />
+
+    <item>
+      <title>@negnance</title>
+      <itunes:title>@negnance</itunes:title>
+      <description>Jason and Nikki are joined by Chris Chang aka @negnance.</description>
+      <pubDate>Mon, 28 Nov 2016 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/%40negnance%20%5BTHEMJEANS_negnance%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">negnance</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>200th Episode!</title>
+      <itunes:title>200th Episode!</itunes:title>
+      <description>The milestone 200th episode celebration.</description>
+      <pubDate>Mon, 18 Dec 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/200th%20Episode%21%20%5BTHEMJEANS_200th-episode%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">200th-episode</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>2015 Reflection + Movies with Chris Chang</title>
+      <itunes:title>2015 Reflection + Movies with Chris Chang</itunes:title>
+      <description>Archive episode: 2015 Reflection + Movies with Chris Chang.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/2015%20Reflection%20%2B%20Movies%20with%20Chris%20Chang%20%5BTHEMJEANS_2015-reflection-movies-with-chris-chang%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">2015-reflection-movies-chris-chang</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>2015 Year in Music Review</title>
+      <itunes:title>2015 Year in Music Review</itunes:title>
+      <description>Archive episode: 2015 Year in Music Review.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/2015%20Year%20in%20Music%20Review%20%5BTHEMJEANS_2015-year-in-music-review%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">2015-year-in-music-review</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>A Rare Pod With Chris Black</title>
+      <itunes:title>A Rare Pod With Chris Black</itunes:title>
+      <description>The return of Chris Black for a rare one-on-one with Jason.</description>
+      <pubDate>Tue, 14 Aug 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/A%20Rare%20Pod%20With%20Chris%20Black%20%5BTHEMJEANS_a-rare-pod-with-chris-black%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">a-rare-pod-with-chris-black</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Alix Mcalpine</title>
+      <itunes:title>Alix Mcalpine</itunes:title>
+      <description>Archive episode: Alix Mcalpine.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Alix%20Mcalpine%20%5BTHEMJEANS_alix-mcalpine%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">alix-mcalpine</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Amtrac</title>
+      <itunes:title>Amtrac</itunes:title>
+      <description>Archive episode: Amtrac.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Amtrac%20%5BTHEMJEANS_amtrac%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">amtrac</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Andrew Michaan</title>
+      <itunes:title>Andrew Michaan</itunes:title>
+      <description>Archive episode: Andrew Michaan.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Andrew%20Michaan%20%5BTHEMJEANS_andrew-michaan%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">andrew-michaan</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Aniz Ansari</title>
+      <itunes:title>Aniz Ansari</itunes:title>
+      <description>Bojangles fry seasoning, traveling through Japan, and Master of None.</description>
+      <pubDate>Mon, 09 Jan 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Aniz%20Ansari%20%5BTHEMJEANS_aniz-ansari%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">aniz-ansari</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Aseem From Hotel Garuda</title>
+      <itunes:title>Aseem From Hotel Garuda</itunes:title>
+      <description>Archive episode: Aseem From Hotel Garuda.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Aseem%20From%20Hotel%20Garuda%20%5BTHEMJEANS_aseem-from-hotel-garuda%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">aseem-hotel-garuda</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Asher Roth &amp; Jake Troth</title>
+      <itunes:title>Asher Roth &amp; Jake Troth</itunes:title>
+      <description>Archive episode: Asher Roth &amp; Jake Troth.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Asher%20Roth%20%26%20Jake%20Troth%20%5BTHEMJEANS_asher-roth-jake-troth%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">asher-roth-jake-troth</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Cam Tang</title>
+      <itunes:title>Cam Tang</itunes:title>
+      <description>Archive episode: Cam Tang.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Cam%20Tang%20%5BTHEMJEANS_cam-tang%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">cam-tang</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Caroline Goldfarb (@officialseanpenn)</title>
+      <itunes:title>Caroline Goldfarb (@officialseanpenn)</itunes:title>
+      <description>Archive episode: Caroline Goldfarb (@officialseanpenn).</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Caroline%20Goldfarb%20%28%40officialseanpenn%29%20%5BTHEMJEANS_caroline-goldfarb-officialseanpenn%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">caroline-goldfarb-officialseanpenn</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Chris Black Art Basel Scene Report</title>
+      <itunes:title>Chris Black Art Basel Scene Report</itunes:title>
+      <description>Archive episode: Chris Black Art Basel Scene Report.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Chris%20Black%20Art%20Basel%20Scene%20Report%20%5BTHEMJEANS_chris-black-art-basel-scene-report%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">chris-black-art-basel</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Chris Black Returns!</title>
+      <itunes:title>Chris Black Returns!</itunes:title>
+      <description>Archive episode: Chris Black Returns!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Chris%20Black%20Returns%21%20%5BTHEMJEANS_chris-black-returns%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">chris-black-returns</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Conspiracy chat with Gina Turner &amp; Tim Rothschild</title>
+      <itunes:title>Conspiracy chat with Gina Turner &amp; Tim Rothschild</itunes:title>
+      <description>Archive episode: Conspiracy chat with Gina Turner &amp; Tim Rothschild.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Conspiracy%20chat%20with%20Gina%20Turner%20%26%20Tim%20Rothschild%20%5BTHEMJEANS_conspiracy-chat-with-gina-turner-tim-rothschild%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">conspiracy-chat-gina-turner-tim-rothschild</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>CRNKN</title>
+      <itunes:title>CRNKN</itunes:title>
+      <description>Archive episode: CRNKN.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/CRNKN%20%5BTHEMJEANS_crnkn%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">crnkn</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Dances</title>
+      <itunes:title>Dances</itunes:title>
+      <description>Archive episode: Dances.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Dances%20%5BTHEMJEANS_dances%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">dances</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Darcie Wilder</title>
+      <itunes:title>Darcie Wilder</itunes:title>
+      <description>Archive episode: Darcie Wilder.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Darcie%20Wilder%20%5BTHEMJEANS_darcie-wilder%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">darcie-wilder</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Decatur Dan</title>
+      <itunes:title>Decatur Dan</itunes:title>
+      <description>Archive episode: Decatur Dan.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Decatur%20Dan%20%5BTHEMJEANS_decatur-dan%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">decatur-dan</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>DJ Douggpound and Neha Potalia</title>
+      <itunes:title>DJ Douggpound and Neha Potalia</itunes:title>
+      <description>Archive episode: DJ Douggpound and Neha Potalia.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/DJ%20Douggpound%20and%20Neha%20Potalia%20%5BTHEMJEANS_dj-douggpound-and-neha-potalia%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">dj-douggpound-neha-potalia</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Drunk Pod #2 w⧸ Mike Benner</title>
+      <itunes:title>Drunk Pod #2 w⧸ Mike Benner</itunes:title>
+      <description>Archive episode: Drunk Pod #2 w⧸ Mike Benner.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Drunk%20Pod%20%232%20w%E2%A7%B8%20Mike%20Benner%20%5BTHEMJEANS_drunk-pod-2-w-mike-benner%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">drunk-pod-2-mike-benner</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Erin Yogasundram</title>
+      <itunes:title>Erin Yogasundram</itunes:title>
+      <description>Archive episode: Erin Yogasundram.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Erin%20Yogasundram%20%5BTHEMJEANS_erin-yogasundram%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">erin-yogasundram</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ernest Baker (sort of) read description!</title>
+      <itunes:title>Ernest Baker (sort of) read description!</itunes:title>
+      <description>Archive episode: Ernest Baker (sort of) read description!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Ernest%20Baker%20%28sort%20of%29%20read%20description%21%20%5BTHEMJEANS_ernest-baker-sort-of-read-description%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">ernest-baker-sort-of</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>First Episode of 2018</title>
+      <itunes:title>First Episode of 2018</itunes:title>
+      <description>Archive episode: First Episode of 2018.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/First%20Episode%20of%202018%20%5BTHEMJEANS_first-episode-of-2018%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">first-episode-2018</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Flynn McGarry &amp; Chris Black</title>
+      <itunes:title>Flynn McGarry &amp; Chris Black</itunes:title>
+      <description>Archive episode: Flynn McGarry &amp; Chris Black.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Flynn%20McGarry%20%26%20Chris%20Black%20%5BTHEMJEANS_flynn-mcgarry-chris-black%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">flynn-mcgarry-chris-black</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Gigamesh</title>
+      <itunes:title>Gigamesh</itunes:title>
+      <description>Archive episode: Gigamesh.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Gigamesh%20%5BTHEMJEANS_gigamesh%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">gigamesh</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Goji Berries &amp; Menswear with Chris Black</title>
+      <itunes:title>Goji Berries &amp; Menswear with Chris Black</itunes:title>
+      <description>Archive episode: Goji Berries &amp; Menswear with Chris Black.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Goji%20Berries%20%26%20Menswear%20with%20Chris%20Black%20%5BTHEMJEANS_goji-berries-menswear-with-chris-black%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">goji-berries-menswear-chris-black</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Heems</title>
+      <itunes:title>Heems</itunes:title>
+      <description>Archive episode: Heems.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Heems%20%5BTHEMJEANS_heems%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">heems</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>How To Dress Well</title>
+      <itunes:title>How To Dress Well</itunes:title>
+      <description>Tom Krell joins the pod to discuss mental health, drugs, and thickness.</description>
+      <pubDate>Mon, 13 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/How%20To%20Dress%20Well%20%5BTHEMJEANS_how-to-dress-well%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">how-to-dress-well</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>ItsTheReal</title>
+      <itunes:title>ItsTheReal</itunes:title>
+      <description>Archive episode: ItsTheReal.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/ItsTheReal%20%5BTHEMJEANS_itsthereal%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">itsthereal</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jack Wagner</title>
+      <itunes:title>Jack Wagner</itunes:title>
+      <description>Archive episode: Jack Wagner.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jack%20Wagner%20%5BTHEMJEANS_jack-wagner%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jack-wagner</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jacob Gallagher</title>
+      <itunes:title>Jacob Gallagher</itunes:title>
+      <description>Archive episode: Jacob Gallagher.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jacob%20Gallagher%20%5BTHEMJEANS_jacob-gallagher%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jacob-gallagher</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jak Knight</title>
+      <itunes:title>Jak Knight</itunes:title>
+      <description>Archive episode: Jak Knight.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jak%20Knight%20%5BTHEMJEANS_jak-knight%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jak-knight</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jake Troth</title>
+      <itunes:title>Jake Troth</itunes:title>
+      <description>Archive episode: Jake Troth.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jake%20Troth%20%5BTHEMJEANS_jake-troth%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jake-troth</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jake Weisman</title>
+      <itunes:title>Jake Weisman</itunes:title>
+      <description>Archive episode: Jake Weisman.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jake%20Weisman%20%5BTHEMJEANS_jake-weisman%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jake-weisman</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jamel Johnson</title>
+      <itunes:title>Jamel Johnson</itunes:title>
+      <description>Archive episode: Jamel Johnson.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jamel%20Johnson%20%5BTHEMJEANS_jamel-johnson%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jamel-johnson</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jason &amp; Nikki Quiz Time</title>
+      <itunes:title>Jason &amp; Nikki Quiz Time</itunes:title>
+      <description>Archive episode: Jason &amp; Nikki Quiz Time.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jason%20%26%20Nikki%20Quiz%20Time%20%5BTHEMJEANS_jason-nikki-quiz-time%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jason-nikki-quiz-time</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jason &amp; Nikki Take Listener Questions</title>
+      <itunes:title>Jason &amp; Nikki Take Listener Questions</itunes:title>
+      <description>Archive episode: Jason &amp; Nikki Take Listener Questions.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jason%20%26%20Nikki%20Take%20Listener%20Questions%20%5BTHEMJEANS_jason-nikki-take-listener-questions%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jason-nikki-listener-questions</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jason &amp; Nikki Year In Review</title>
+      <itunes:title>Jason &amp; Nikki Year In Review</itunes:title>
+      <description>Reflecting on 2016 and taking listener questions.</description>
+      <pubDate>Mon, 26 Dec 2016 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jason%20%26%20Nikki%20Year%20In%20Review%20%5BTHEMJEANS_jason-nikki-year-in-review%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jason-nikki-year-in-review</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jason, Nikki &amp; Chris Chang</title>
+      <itunes:title>Jason, Nikki &amp; Chris Chang</itunes:title>
+      <description>Archive episode: Jason, Nikki &amp; Chris Chang.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jason%2C%20Nikki%20%26%20Chris%20Chang%20%5BTHEMJEANS_jason-nikki-chris-chang%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jason-nikki-chris-chang</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jason's brother Chris Stewart!</title>
+      <itunes:title>Jason's brother Chris Stewart!</itunes:title>
+      <description>Archive episode: Jason's brother Chris Stewart!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jason%27s%20brother%20Chris%20Stewart%21%20%5BTHEMJEANS_jasons-brother-chris-stewart%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jasons-brother-chris-stewart</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jayne Min</title>
+      <itunes:title>Jayne Min</itunes:title>
+      <description>Archive episode: Jayne Min.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jayne%20Min%20%5BTHEMJEANS_jayne-min%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jayne-min</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jim-E Stack</title>
+      <itunes:title>Jim-E Stack</itunes:title>
+      <description>Archive episode: Jim-E Stack.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jim-E%20Stack%20%5BTHEMJEANS_jim-e-stack%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jim-e-stack</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jimmy Joliff Returns!</title>
+      <itunes:title>Jimmy Joliff Returns!</itunes:title>
+      <description>Archive episode: Jimmy Joliff Returns!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jimmy%20Joliff%20Returns%21%20%5BTHEMJEANS_jimmy-joliff-returns%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jimmy-joliff-returns</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jimmy Jolliff</title>
+      <itunes:title>Jimmy Jolliff</itunes:title>
+      <description>Archive episode: Jimmy Jolliff.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jimmy%20Jolliff%20%5BTHEMJEANS_jimmy-jolliff%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jimmy-jolliff</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jon Gabrus</title>
+      <itunes:title>Jon Gabrus</itunes:title>
+      <description>Archive episode: Jon Gabrus.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jon%20Gabrus%20%5BTHEMJEANS_jon-gabrus%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jon-gabrus</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Josh Madden</title>
+      <itunes:title>Josh Madden</itunes:title>
+      <description>Archive episode: Josh Madden.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Josh%20Madden%20%5BTHEMJEANS_josh-madden%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">josh-madden</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Jubilee</title>
+      <itunes:title>Jubilee</itunes:title>
+      <description>Archive episode: Jubilee.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Jubilee%20%5BTHEMJEANS_jubilee%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">jubilee</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ka5sh</title>
+      <itunes:title>Ka5sh</itunes:title>
+      <description>Archive episode: Ka5sh.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Ka5sh%20%5BTHEMJEANS_ka5sh%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">ka5sh</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Lauren Knight &amp; Nicole Pham</title>
+      <itunes:title>Lauren Knight &amp; Nicole Pham</itunes:title>
+      <description>Archive episode: Lauren Knight &amp; Nicole Pham.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Lauren%20Knight%20%26%20Nicole%20Pham%20%5BTHEMJEANS_lauren-knight-nicole-pham%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">lauren-knight-nicole-pham</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Lawrence Schlossman @SartoriallyInc</title>
+      <itunes:title>Lawrence Schlossman @SartoriallyInc</itunes:title>
+      <description>Archive episode: Lawrence Schlossman @SartoriallyInc.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Lawrence%20Schlossman%20%40SartoriallyInc%20%5BTHEMJEANS_lawrence-schlossman-sartoriallyinc%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">lawrence-schlossman-sartoriallyinc</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Lemonade with Chris Chang</title>
+      <itunes:title>Lemonade with Chris Chang</itunes:title>
+      <description>Archive episode: Lemonade with Chris Chang.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Lemonade%20with%20Chris%20Chang%20%5BTHEMJEANS_lemonade-with-chris-chang%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">lemonade-chris-chang</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Lil Texas</title>
+      <itunes:title>Lil Texas</itunes:title>
+      <description>Archive episode: Lil Texas.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Lil%20Texas%20%5BTHEMJEANS_lil-texas%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">lil-texas</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Matt Fx</title>
+      <itunes:title>Matt Fx</itunes:title>
+      <description>Broad City music supervisor Matt FX talks food and culture.</description>
+      <pubDate>Mon, 06 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Matt%20Fx%20%5BTHEMJEANS_matt-fx%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">matt-fx</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Mayer Hawthorne</title>
+      <itunes:title>Mayer Hawthorne</itunes:title>
+      <description>Archive episode: Mayer Hawthorne.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Mayer%20Hawthorne%20%5BTHEMJEANS_mayer-hawthorne%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">mayer-hawthorne</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Media Contender Mix Sep 2011</title>
+      <itunes:title>Media Contender Mix Sep 2011</itunes:title>
+      <description>Archive episode: Media Contender Mix Sep 2011.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Media%20Contender%20Mix%20Sep%202011%20%5BTHEMJEANS_media-contender-mix-sep-2011%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">media-contender-mix-sep-2011</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Micah James</title>
+      <itunes:title>Micah James</itunes:title>
+      <description>Archive episode: Micah James.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Micah%20James%20%5BTHEMJEANS_micah-james%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">micah-james</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Micah James &amp; Jimmy Jolliff</title>
+      <itunes:title>Micah James &amp; Jimmy Jolliff</itunes:title>
+      <description>Archive episode: Micah James &amp; Jimmy Jolliff.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Micah%20James%20%26%20Jimmy%20Jolliff%20%5BTHEMJEANS_micah-james-jimmy-jolliff%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">micah-james-jimmy-jolliff</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Michael Martin Del Campo</title>
+      <itunes:title>Michael Martin Del Campo</itunes:title>
+      <description>Archive episode: Michael Martin Del Campo.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Michael%20Martin%20Del%20Campo%20%5BTHEMJEANS_michael-martin-del-campo%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">michael-martin-del-campo</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Mike Benner</title>
+      <itunes:title>Mike Benner</itunes:title>
+      <description>Archive episode: Mike Benner.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Mike%20Benner%20%5BTHEMJEANS_mike-benner%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">mike-benner</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Mike Mitchell</title>
+      <itunes:title>Mike Mitchell</itunes:title>
+      <description>Archive episode: Mike Mitchell.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Mike%20Mitchell%20%5BTHEMJEANS_mike-mitchell%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">mike-mitchell</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Molly Lambert</title>
+      <itunes:title>Molly Lambert</itunes:title>
+      <description>Archive episode: Molly Lambert.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Molly%20Lambert%20%5BTHEMJEANS_molly-lambert%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">molly-lambert</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Naomi Fry &amp; Chris Chang</title>
+      <itunes:title>Naomi Fry &amp; Chris Chang</itunes:title>
+      <description>Archive episode: Naomi Fry &amp; Chris Chang.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Naomi%20Fry%20%26%20Chris%20Chang%20%5BTHEMJEANS_naomi-fry-chris-chang%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">naomi-fry-chris-chang</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Newman Wolf</title>
+      <itunes:title>Newman Wolf</itunes:title>
+      <description>Archive episode: Newman Wolf.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Newman%20Wolf%20%5BTHEMJEANS_newman-wolf%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">newman-wolf</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>NIKKI WE MADE IT - Mixtape by SOSUPERSAM</title>
+      <itunes:title>NIKKI WE MADE IT - Mixtape by SOSUPERSAM</itunes:title>
+      <description>Archive episode: NIKKI WE MADE IT - Mixtape by SOSUPERSAM.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/NIKKI%20WE%20MADE%20IT%20-%20Mixtape%20by%20SOSUPERSAM%20%5BTHEMJEANS_nikki-we-made-it-mixtape-by-sosupersam%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">nikki-we-made-it-sosupersam</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Nikki's Last Episode ：( with Chris Black</title>
+      <itunes:title>Nikki's Last Episode ：( with Chris Black</itunes:title>
+      <description>Archive episode: Nikki's Last Episode ：( with Chris Black.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Nikki%27s%20Last%20Episode%20%EF%BC%9A%28%20with%20Chris%20Black%20%5BTHEMJEANS_nikkis-last-episode-with-chris-black%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">nikkis-last-episode-chris-black</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Nina Las Vegas &amp; Swick</title>
+      <itunes:title>Nina Las Vegas &amp; Swick</itunes:title>
+      <description>Archive episode: Nina Las Vegas &amp; Swick.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Nina%20Las%20Vegas%20%26%20Swick%20%5BTHEMJEANS_nina-las-vegas-swick%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">nina-las-vegas-swick</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>NYC with Chris Black &amp; David Cho</title>
+      <itunes:title>NYC with Chris Black &amp; David Cho</itunes:title>
+      <description>Archive episode: NYC with Chris Black &amp; David Cho.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/NYC%20with%20Chris%20Black%20%26%20David%20Cho%20%5BTHEMJEANS_nyc-with-chris-black-david-cho%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">nyc-chris-black-david-cho</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Open Mike Eagle</title>
+      <itunes:title>Open Mike Eagle</itunes:title>
+      <description>Rapper and comedian Open Mike Eagle discusses Laker games and edibles.</description>
+      <pubDate>Mon, 13 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Open%20Mike%20Eagle%20%5BTHEMJEANS_open-mike-eagle%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">open-mike-eagle</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Phil Chang &amp; Yimmy Yayo</title>
+      <itunes:title>Phil Chang &amp; Yimmy Yayo</itunes:title>
+      <description>Archive episode: Phil Chang &amp; Yimmy Yayo.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Phil%20Chang%20%26%20Yimmy%20Yayo%20%5BTHEMJEANS_phil-chang-yimmy-yayo%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">phil-chang-yimmy-yayo</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Pizzaslime</title>
+      <itunes:title>Pizzaslime</itunes:title>
+      <description>Archive episode: Pizzaslime.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Pizzaslime%20%5BTHEMJEANS_pizzaslime%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">pizzaslime</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Posso</title>
+      <itunes:title>Posso</itunes:title>
+      <description>Archive episode: Posso.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Posso%20%5BTHEMJEANS_posso%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">posso</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Power Tools Quick Mix</title>
+      <itunes:title>Power Tools Quick Mix</itunes:title>
+      <description>Archive episode: Power Tools Quick Mix.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Power%20Tools%20Quick%20Mix%20%5BTHEMJEANS_power-tools-quick-mix%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">power-tools-quick-mix</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Pre Party Jamz</title>
+      <itunes:title>Pre Party Jamz</itunes:title>
+      <description>Archive episode: Pre Party Jamz.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Pre%20Party%20Jamz%20%5BTHEMJEANS_pre-party-jamz%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">pre-party-jamz</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Public Announcement Pod Collab</title>
+      <itunes:title>Public Announcement Pod Collab</itunes:title>
+      <description>Archive episode: Public Announcement Pod Collab.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Public%20Announcement%20Pod%20Collab%20%5BTHEMJEANS_public-announcement-pod-collab%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">public-announcement-pod-collab</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Rob Fee</title>
+      <itunes:title>Rob Fee</itunes:title>
+      <description>Archive episode: Rob Fee.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Rob%20Fee%20%5BTHEMJEANS_rob-fee%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">rob-fee</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Rory Phillips</title>
+      <itunes:title>Rory Phillips</itunes:title>
+      <description>Archive episode: Rory Phillips.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Rory%20Phillips%20%5BTHEMJEANS_rory-phillips%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">rory-phillips</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>smokincigs23</title>
+      <itunes:title>smokincigs23</itunes:title>
+      <description>Archive episode: smokincigs23.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/smokincigs23%20%5BTHEMJEANS_smokincigs23%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">smokincigs23</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Somehoodlum (the guy who does the art every week)</title>
+      <itunes:title>Somehoodlum (the guy who does the art every week)</itunes:title>
+      <description>Archive episode: Somehoodlum.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Somehoodlum%20%28the%20guy%20who%20does%20the%20art%20every%20week%29%20%5BTHEMJEANS_somehoodlum-the-guy-who-does-the-art-every-week%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">somehoodlum-art</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Somehoodlum &amp; Neha Potalia</title>
+      <itunes:title>Somehoodlum &amp; Neha Potalia</itunes:title>
+      <description>Archive episode: Somehoodlum &amp; Neha Potalia.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Somehoodlum%20%26%20Neha%20Potalia%20%5BTHEMJEANS_somehoodlum-neha-potalia%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">somehoodlum-neha-potalia</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>SOSUPERSAM</title>
+      <itunes:title>SOSUPERSAM</itunes:title>
+      <description>Archive episode: SOSUPERSAM.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/SOSUPERSAM%20%5BTHEMJEANS_sosupersam%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sosupersam</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>SOSUPERSAM &amp; Neha Potalia</title>
+      <itunes:title>SOSUPERSAM &amp; Neha Potalia</itunes:title>
+      <description>Archive episode: SOSUPERSAM &amp; Neha Potalia.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/SOSUPERSAM%20%26%20Neha%20Potalia%20%5BTHEMJEANS_sosupersam-neha-potalia%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">sosupersam-neha-potalia</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Stretch Armstrong</title>
+      <itunes:title>Stretch Armstrong</itunes:title>
+      <description>The legendary NYC DJ Stretch Armstrong joins the show.</description>
+      <pubDate>Mon, 27 Jun 2016 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Stretch%20Armstrong%20%5BTHEMJEANS_stretch-armstrong%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">stretch-armstrong</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Summer 2012 Mix</title>
+      <itunes:title>Summer 2012 Mix</itunes:title>
+      <description>Archive episode: Summer 2012 Mix.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Summer%202012%20Mix%20%5BTHEMJEANS_summer-2012-mix%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">summer-2012-mix</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>SWAG STEP</title>
+      <itunes:title>SWAG STEP</itunes:title>
+      <description>Archive episode: SWAG STEP.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/SWAG%20STEP%20%5BTHEMJEANS_swag-step%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">swag-step</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Tequila with David Cho</title>
+      <itunes:title>Tequila with David Cho</itunes:title>
+      <description>Archive episode: Tequila with David Cho.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Tequila%20with%20David%20Cho%20%5BTHEMJEANS_tequila-with-david-cho%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">tequila-david-cho</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Top 10 Songs of 2016 with Chris Black</title>
+      <itunes:title>Top 10 Songs of 2016 with Chris Black</itunes:title>
+      <description>The annual top 10 songs of the year showdown with Chris Black.</description>
+      <pubDate>Mon, 02 Jan 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Top%2010%20Songs%20of%202016%20with%20Chris%20Black%20%5BTHEMJEANS_top-10-songs-of-2016-with-chris-black%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">top-10-songs-2016-chris-black</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Top 10 Songs Of 2017!</title>
+      <itunes:title>Top 10 Songs Of 2017!</itunes:title>
+      <description>Archive episode: Top 10 Songs Of 2017!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Top%2010%20Songs%20Of%202017%21%20%5BTHEMJEANS_top-10-songs-of-2017%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">top-10-songs-2017</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Trevor McFedries aka @yungskeeter</title>
+      <itunes:title>Trevor McFedries aka @yungskeeter</itunes:title>
+      <description>Archive episode: Trevor McFedries aka @yungskeeter.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Trevor%20McFedries%20aka%20%40yungskeeter%20%5BTHEMJEANS_trevor-mcfedries-aka-yungskeeter%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">trevor-mcfedries-yungskeeter</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Trump Talk ⧸ Listener Questions</title>
+      <itunes:title>Trump Talk ⧸ Listener Questions</itunes:title>
+      <description>Archive episode: Trump Talk ⧸ Listener Questions.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Trump%20Talk%20%E2%A7%B8%20Listener%20Questions%20%5BTHEMJEANS_trump-talk-listener-questions%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">trump-talk-listener-questions</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Wahlid Mohammad</title>
+      <itunes:title>Wahlid Mohammad</itunes:title>
+      <description>Archive episode: Wahlid Mohammad.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Wahlid%20Mohammad%20%5BTHEMJEANS_wahlid-mohammad%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">wahlid-mohammad</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Whoopi returns!</title>
+      <itunes:title>Whoopi returns!</itunes:title>
+      <description>Archive episode: Whoopi returns!.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Whoopi%20returns%21%20%5BTHEMJEANS_whoopi-returns%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">whoopi-returns</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Would You Rather w⧸ Mike Benner</title>
+      <itunes:title>Would You Rather w⧸ Mike Benner</itunes:title>
+      <description>Archive episode: Would You Rather w⧸ Mike Benner.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Would%20You%20Rather%20w%E2%A7%B8%20Mike%20Benner%20%5BTHEMJEANS_would-you-rather-w-mike-benner%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">would-you-rather-mike-benner</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Yasi Salek</title>
+      <itunes:title>Yasi Salek</itunes:title>
+      <description>Archive episode: Yasi Salek.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Yasi%20Salek%20%5BTHEMJEANS_yasi-salek%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">yasi-salek</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Yimmyayo</title>
+      <itunes:title>Yimmyayo</itunes:title>
+      <description>Archive episode: Yimmyayo.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Yimmyayo%20%5BTHEMJEANS_yimmyayo%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">yimmyayo</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Zack Pearlman</title>
+      <itunes:title>Zack Pearlman</itunes:title>
+      <description>Archive episode: Zack Pearlman.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Zack%20Pearlman%20%5BTHEMJEANS_zack-pearlman%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">zack-pearlman</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Zeke Nicholson</title>
+      <itunes:title>Zeke Nicholson</itunes:title>
+      <description>Archive episode: Zeke Nicholson.</description>
+      <pubDate>Mon, 01 Jan 2018 12:00:00 GMT</pubDate>
+      <enclosure url="https://water-lillies.github.io/ttales-archive/episodes/Zeke%20Nicholson%20%5BTHEMJEANS_zeke-nicholson%5D.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">zeke-nicholson</guid>
+      <itunes:author>Jason Stewart &amp; Nikki Jagerman</itunes:author>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
